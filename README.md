@@ -1,6 +1,3 @@
-# hello-world
-first repository
-change one
-09:57
-10:00
-10:05
+# 30.10.2020 
+# 1016
+# Why Hello?
